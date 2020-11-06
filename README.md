@@ -11,4 +11,4 @@ Here is his [github repo](https://github.com/guillermo-musumeci/packer-vsphere-i
 [Linux Packer templates](https://github.com/guillermo-musumeci/packer-vsphere-iso-linux)
 
 ## More instructions
-You can find more instructions in /packer-vsphere-iso-windows/README.md
+You can find more instructions in /packer-vsphere-iso-windows/README.md## Hashicorp ##
